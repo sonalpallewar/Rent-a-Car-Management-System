@@ -52,6 +52,9 @@ public class Booking_BookCar extends JFrame {
 
         CarID_TextField.setPreferredSize(new Dimension(240, 22));
         CarIDValidity_Label.setPreferredSize(new Dimension(415, 9));
+        
+        CarID_TextField.setPreferredSize(new Dimension(240, 22));
+        CarIDValidity_Label.setPreferredSize(new Dimension(415, 9));
 
         CustomerID_TextField.setPreferredSize(new Dimension(240, 22));
         CustomerIDValidity_Label.setPreferredSize(new Dimension(415, 9));
